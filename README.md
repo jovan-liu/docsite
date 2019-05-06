@@ -1,7 +1,1 @@
-readme
-docsite
-222
-333
-444
-555
-777
+部署前将项目下的site_config/site.js rootPath改成github仓库名
